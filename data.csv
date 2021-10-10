@@ -6,7 +6,7 @@ Mammals,Savannahs,Hyena,Hyaena,Carnivora
 Mammals,Savannahs,Lion,Panthera,Carnivora
 Mammals,Amazon,Capybara,Hydrochoerus,Rodentia
 Mammals,Amazon,Cougar,Puma,Carnivora
-Mammals,Amazon,Otter,Lutra,Carnivora
+Mammals,Amazon,Giant Otter,Lutra,Carnivora
 Mammals,Amazon,Tapir,Tapirus,Perissodactyla
 Mammals,Amazon,Armadillo, Dasypus,Cingulata
 Mammals,Australian Outback,Kangaroo,Macropus,Diprotodontia
@@ -14,14 +14,19 @@ Mammals,Australian Outback,Dingo,Canis,Carnivora
 Mammals,Australian Outback,koala,Phascolarctos,Diprotodontia
 Mammals,Australian Outback,Wombat,Vombatus,Diprotodontia
 Mammals,Australian Outback,Opossum,Didelphis,Didelphimorphia
+Mammals,Everglades,Eastern gray squirrel,Rodentia,Sciurus
+Mammals,Everglades,Eastern mole,Scalopus,Eulipotyphla
+Mammals,Everglades,White-tailed deer,Odocoileus,Artiodactyla
+Mammals,Everglades,Northern yellow bat,Dasypterus,Chiroptera
+Mammals,Everglades,Marsh rabbit,Sylvilagus,Lagomorpha
 Reptiles,Savannahs,Nile Crocodile,Crocodylus,Crocodilia
 Reptiles,Savannahs,Leopard Tortoise,Stigmochelys,Testudines
 Reptiles,Savannahs,Black Mamba,Dendroaspis,Squamata
-Reptiles,Savannahs,Komodo dragon,Varanus,Squamata
+Reptiles,Savannahs,Savannah monitor,Varanus,Squamata
 Reptiles,Savannahs,jackson's chameleon,Trioceros,Squamata
 Reptiles,Amazon,Green Iguana,Iguana,Squamata
 Reptiles,Amazon,Common Basilisk,Basiliscus,Squamata
-Reptiles,Amazon,Pit Viper,Bothrocophias,Squamata
+Reptiles,Amazon,Green anaconda,Eunectes,Squamata
 Reptiles,Amazon,matamata,Chelus,Testudines
 Reptiles,Amazon,Boa constrictor,Eunectes,Squamata
 Reptiles,Australian Outback,Saltwater Crocodile,Crocodylus,Crocodilia
@@ -29,9 +34,14 @@ Reptiles,Australian Outback,Frilled Lizard,Chlamydosaurus,Squamata
 Reptiles,Australian Outback,Thorny devil,Moloch,Squamata
 Reptiles,Australian Outback,Children's Python,Antaresia,Squamata
 Reptiles,Australian Outback,Sand goanna,Varanus,Squamata
+Reptiles,Everglades,American alligator,Alligator,Crocodilia
+Reptiles,Everglades,Brown anole,Anolis,Squamata
+Reptiles,Everglades,Eastern hognose snake,Heterodon,Squamata
+Reptiles,Everglades,Florida softshell turtle,Apalone,Testudines
+Reptiles,Everglades,Peninsula cooter,Pseudemys,Testudines
 Birds,Savannahs,African Fish Eagle,Haliaeetus,Accipitriformes
 Birds,Savannahs,Ostrich,Struthio,Struthioniformes
-Birds,Savannahs,Coppery-tailed coucal,Centropus,Cuculiformes
+Birds,Savannahs,Copper tail coucal,Centropus,Cuculiformes
 Birds,Savannahs,verreaux's eagle owl,Bubo,Strigiformes
 Birds,Savannahs,Lappet-faced Vulture,Torgos,Accipitriformes
 Birds,Amazon,Harpy eagle,Harpia,Accipitriformes
@@ -44,3 +54,28 @@ Birds,Australian Outback,Weebill,Smicrornis,Passeriformes
 Birds,Australian Outback,collared sparrowhawk,Accipiter,Accipitriformes
 Birds,Australian Outback,Brown Falcon,Falco,Falconiformes
 Birds,Australian Outback,Malleefowl,Leipoa,Galliformes
+Birds,Everglades,Snow Goose,Anser,Anseriformes
+Birds,Everglades,Northern Bobwhite,Colinus,Galliformes
+Birds,Everglades,American Flamingo,Phoenicopterus,Phoenicopteriformes
+Birds,Everglades,Mangrove Cuckoo,Coccyzus,Cuculiformes
+Birds,Everglades,American Avocet,Recurvirostra,Charadriiformes
+Fish,Savannahs,Hemibates stenosoma,Hemibates,Cichliformes
+Fish,Savannahs,Grammatotria,Grammatotria,Cichliformes
+Fish,Savannahs,Lake Tanganyika sardine,Limnothrissa,Clupeiformes
+Fish,Savannahs,Sleek lates,Lates,Perciformes
+Fish,Savannahs,Lake Tanganyika sprat,Stolothrissa,Clupeiformes
+Fish,Amazon,Arapaima,Arapaima,Osteoglossiformes
+Fish,Amazon,Tambaqui,Colossoma,Characiformes
+Fish,Amazon,Candiru,Vandellia,Siluriformes
+Fish,Amazon,Red-bellied piranha,Pygocentrus,Characiformes
+Fish,Amazon,Electric eel,Electrophorus,Gymnotiformes
+Fish,Australian Outback,Bony Bream,Nematalosa,Clupeiformes
+Fish,Australian Outback,Australian Smelt,Retropinna,Osmeriformes
+Fish,Australian Outback,Barramundi,Lates,Perciformes
+Fish,Australian Outback,Australian lungfish,Neoceratodus,Dipnoi
+Fish,Australian Outback,Australian bass,Macquaria,Perciformes
+Fish,Everglades,Largemouth Bass,Micropterus,Perciformes
+Fish,Everglades,Shoal bass,Micropterus,Perciformes
+Fish,Everglades,Highfin carpsucker,Carpiodes,Cypriniformes
+Fish,Everglades,Florida gar,Lepisosteus,Lepisosteiformes
+Fish,Everglades,American eel,Anguilla,Anguilliformes
