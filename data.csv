@@ -1,0 +1,46 @@
+Class,Ecosystem,Species,Genus,Order
+Mammals,Savannahs,Zebra,Equus,Perissodactyla
+Mammals,Savannahs,Giraffe,Giraffa,Artiodactyla
+Mammals,Savannahs,Elephant,Loxodonta,Proboscidea
+Mammals,Savannahs,Hyena,Hyaena,Carnivora
+Mammals,Savannahs,Lion,Panthera,Carnivora
+Mammals,Amazon,Capybara,Hydrochoerus,Rodentia
+Mammals,Amazon,Cougar,Puma,Carnivora
+Mammals,Amazon,Otter,Lutra,Carnivora
+Mammals,Amazon,Tapir,Tapirus,Perissodactyla
+Mammals,Amazon,Armadillo, Dasypus,Cingulata
+Mammals,Australian Outback,Kangaroo,Macropus,Diprotodontia
+Mammals,Australian Outback,Dingo,Canis,Carnivora
+Mammals,Australian Outback,koala,Phascolarctos,Diprotodontia
+Mammals,Australian Outback,Wombat,Vombatus,Diprotodontia
+Mammals,Australian Outback,Opossum,Didelphis,Didelphimorphia
+Reptiles,Savannahs,Nile Crocodile,Crocodylus,Crocodilia
+Reptiles,Savannahs,Leopard Tortoise,Stigmochelys,Testudines
+Reptiles,Savannahs,Black Mamba,Dendroaspis,Squamata
+Reptiles,Savannahs,Komodo dragon,Varanus,Squamata
+Reptiles,Savannahs,jackson's chameleon,Trioceros,Squamata
+Reptiles,Amazon,Green Iguana,Iguana,Squamata
+Reptiles,Amazon,Common Basilisk,Basiliscus,Squamata
+Reptiles,Amazon,Pit Viper,Bothrocophias,Squamata
+Reptiles,Amazon,matamata,Chelus,Testudines
+Reptiles,Amazon,Boa constrictor,Eunectes,Squamata
+Reptiles,Australian Outback,Saltwater Crocodile,Crocodylus,Crocodilia
+Reptiles,Australian Outback,Frilled Lizard,Chlamydosaurus,Squamata
+Reptiles,Australian Outback,Thorny devil,Moloch,Squamata
+Reptiles,Australian Outback,Children's Python,Antaresia,Squamata
+Reptiles,Australian Outback,Sand goanna,Varanus,Squamata
+Birds,Savannahs,African Fish Eagle,Haliaeetus,Accipitriformes
+Birds,Savannahs,Ostrich,Struthio,Struthioniformes
+Birds,Savannahs,Coppery-tailed coucal,Centropus,Cuculiformes
+Birds,Savannahs,verreaux's eagle owl,Bubo,Strigiformes
+Birds,Savannahs,Lappet-faced Vulture,Torgos,Accipitriformes
+Birds,Amazon,Harpy eagle,Harpia,Accipitriformes
+Birds,Amazon,paradise tanager,Tangara,Passeriformes
+Birds,Amazon,Jabiru,J. mycteria,Ciconiiformes
+Birds,Amazon,Squirrel Cuckoo,Piaya,Cuculiformes
+Birds,Amazon,Great kiskadee,Pitangus,Passeriformes
+Birds,Australian Outback,spinifex pigeon,Geophaps,Columbiformes
+Birds,Australian Outback,Weebill,Smicrornis,Passeriformes
+Birds,Australian Outback,collared sparrowhawk,Accipiter,Accipitriformes
+Birds,Australian Outback,Brown Falcon,Falco,Falconiformes
+Birds,Australian Outback,Malleefowl,Leipoa,Galliformes
